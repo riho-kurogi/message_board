@@ -47,7 +47,7 @@ public class Message {
     }
 
     public String getTitle() {
-        return content;
+        return title;
     }
 
     public void setTitle(String title) {
